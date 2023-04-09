@@ -1,0 +1,24 @@
+.home-con {
+  font-family: 'Roboto';
+  padding: 20px;
+}
+.fail-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-img {
+  width: 220px;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.retry-btn {
+  background-color: #4656a1;
+  border-width: 0px;
+  padding: 10px;
+  color: #ffffff;
+}

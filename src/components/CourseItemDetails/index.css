@@ -1,0 +1,34 @@
+.con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.course-con {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  width: 70%;
+  border-radius: 5px;
+}
+.img {
+  width: 70%;
+  margin-right: 10px;
+}
+
+.fail-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-img {
+  width: 220px;
+}
+.retry-btn {
+  background-color: #4656a1;
+  border-width: 0px;
+  padding: 10px;
+  color: #ffffff;
+}
